@@ -52,7 +52,9 @@ public class Vaisseau {
 		this.x = this.x - 1;
 	}
 
-	
+	public int abscisseLaPlusAGauche() {
+		return this.x;
+	}
 	
 	public void positionner(int x, int y) {
 		this.x = x;
