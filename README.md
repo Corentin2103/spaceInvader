@@ -10,7 +10,7 @@
 
 * **Vaisseau** :  véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
 
-------------- 
+ 
 
 ### Sprints et fonctionnalités réalisées 
 
